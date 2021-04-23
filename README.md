@@ -1,4 +1,4 @@
-- 👋  &nbsp; Hi, I’m Toni Melisma, and I work as a Strategic Engagement Lead at @Salesforce
+- 👋  &nbsp; Hi, I’m Toni Melisma, and I work as a Strategic Engagement Lead at [@Salesforce](https://github.com/salesforce)
 - 👀  &nbsp; I’m interested in Javascript, Go and Python
 - 🌱  &nbsp; I’m currently on the path to being a Salesforce Certified Technical Architect (CTA)
 - 💞️  &nbsp; I’m looking to collaborate on any cool prototypes of new Salesforce technology or useful open source projects
