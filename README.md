@@ -3,5 +3,5 @@
 - 🌱  &nbsp; I’m currently on the path to being a Salesforce Certified Technical Architect (CTA)
 - 💞️  &nbsp; I’m looking to collaborate on any cool prototypes of new Salesforce technology or useful open source projects
 - 📫  &nbsp; You can reach me via
-  - Email: [mailto:toni.melisma@salesforce.com](toni.melisma@salesforce.com)
-  - Twitter: [https://twitter.com/tonimelisma](@tonimelisma)
+  - Email: [toni.melisma@salesforce.com](mailto:toni.melisma@salesforce.com)
+  - Twitter: [@tonimelisma](https://twitter.com/tonimelisma)
